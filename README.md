@@ -1,4 +1,4 @@
-# ⚔️ CyberWarrior: Your All-in-One Cyber Toolkit ⚔️
+# ⚔️ CyberWarrior: Third party firewall and traffic monitoring System  ⚔️
 
 **CyberWarrior** is the ultimate weapon in your cybersecurity arsenal. This project provides a robust, [**e.g., Python-based, lightweight**] solution for [**Describe the main goal: e.g., identifying vulnerabilities, securing networks, or analyzing threats**].
 
